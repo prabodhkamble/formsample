@@ -1,0 +1,72 @@
+
+form {
+    font-size: 20px;
+}
+.registerform {
+    background-color: antiquewhite;
+    }
+    h2 {
+    padding: 0px 20px;
+}
+label {
+    font-family: sans-serif;
+    font-size: 20px;
+    padding: 40px;
+    }
+    .section-address {
+    background-color: antiquewhite;
+    color: red;
+    padding: 40px 0px;
+}
+.registerform {
+    padding: 50px;
+    }
+
+ table, th, td {
+  border: 5px solid black;
+  border-collapse: collapse;
+
+}
+td {
+    padding: 0px 60px;
+    border: 2px solid black !important;
+}
+th {
+    padding: 0px 60px;
+    border: 2px solid black !important;
+    }
+    select#countryname {
+    padding: 0px 60px;
+}
+select#statename {
+    padding: 0px 60px;
+}
+textarea {
+    resize: vertical;
+    margin: 0px 40px !important;
+    width: 50%;
+    min-height: 97px;
+}
+button {
+    padding: 2px 40px;
+    }
+    span {
+    padding: 10px 29px;
+    font-size: 21px;
+}
+input#date {
+    padding: 5px 24px;
+    margin: 0px 20px;
+    }
+    input#gender {
+    width: 20px;
+    height: 20px;
+}
+.hob {
+    text-align: center;
+    padding: 60px 0px;
+}
+.tabs {
+    text-align: center;
+    padding: 40px 0px;
+}
